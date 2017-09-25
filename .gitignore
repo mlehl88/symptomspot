@@ -1,0 +1,10 @@
+*.pyc
+*.iml
+.idea/**
+.cache/**
+.ipynb_checkpoints/**
+.coverage
+htmlcov/**
+/dist/
+/*.egg-info
+.env

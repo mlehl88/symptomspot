@@ -1,0 +1,4 @@
+Flask==0.12.2
+Owlready2==0.4
+newspaper3k==0.2.2
+spacy==1.9.0
