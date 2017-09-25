@@ -1,8 +1,8 @@
 # symtopspot
 Symptomspot is a simple symptom string extractor based on the [Symptom 
-Ontology](symptomontologywiki.igs.umaryland.edu) developed at the Institute 
-for Genome Sciences (IGS) at the University of Maryland. The symptom strings
-are extracted using [SpaCy's custom entity matching](https://spacy.io/docs/usage/rule-based-matching).
+Ontology](http://http://symptomontologywiki.igs.umaryland.edu/mediawiki/index.php/Main_Page) 
+developed at the Institute for Genome Sciences (IGS) at the University of Maryland. 
+The symptom strings are extracted using [SpaCy's custom entity matching](https://spacy.io/docs/usage/rule-based-matching).
 
 ### Installation
 Install requirements, download spacy model and download git repository. 
